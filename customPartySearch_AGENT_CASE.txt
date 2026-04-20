@@ -1,0 +1,37 @@
+{
+    "requesterName": "186Transaction",
+    "lineOfBusiness": "LIFE",
+    "company": "PH",
+    "clientAdminSystem": "SHA",
+    "requestTimestamp": "2024-11-11T16:20:06.559",
+    "externalCorrelationId": "2587293109",
+    "filter": "",
+    "searchType": "AGENT_CASE",
+    "maxResults": "",
+    "isProbalistic": "",
+    "partyInqLvl": "",
+    "contractInqLvl": "",
+    "party": {
+        "lobUUID": "1000001112359599495876906",
+        "personInfo": {
+            "givenNameOne": "MICHELLE",
+            "lastName": "MINISCI",
+            "ssn":"593523723"
+        },
+        "agentInfo": [
+            {
+                "entityTypeCode": "1000005",
+                "entityRefNum": "835946"
+            },
+            {
+                "entityTypeCode": "1000019",
+                "entityRefNum": "VAR"
+            },
+            {
+                "entityTypeCode": "1000029",
+                "entityRefNum": "19"
+            }
+        ]
+    }
+}
+ 
